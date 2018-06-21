@@ -1,14 +1,17 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
 
   "name": "hyper-ayu-light",
   "description": "Ayu Light Hyper theme",
   "author": "Patricio Trevino <patricio@weirdpattern.com>",
+  "contributors": [
+    "Jonghwan Hyeon <hyeon0145@gmail.com>"
+  ],
 
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/weirdpattern/hyper-ayu-light"
+    "url": "https://www.github.com/jonghwanhyeon/hyper-ayu-light"
   },
 
   "main": "index.js",
