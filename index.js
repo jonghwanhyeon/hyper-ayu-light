@@ -24,31 +24,31 @@
 
 'use strict';
 
-const BACKGROUND = '#F5F5F5';
-const FOREGROUND = '#5C6773';
+const BACKGROUND = '#FAFAFA';
+const FOREGROUND = '#61676C';
 
-const RED = '#ff3333';
-const LIGHT_RED = '#FF8080';
-const GREEN = '#86B300';
-const LIGHT_GREEN = '#ACE600';
-const YELLOW = '#F29718';
-const LIGHT_YELLOW = '#F6B860';
-const CYAN = '#4DBF99';
-const LIGHT_CYAN = '#85D3B9';
-const BLUE = '#41A6D9';
-const LIGHT_BLUE = '#81C4E6';
-const MAGENTA = '#A37ACC';
-const LIGHT_MAGENTA = '#C9B1E1';
-const LIGHT_GRAY = '#D9D8D7';
-const DARK_GRAY = '#828C99';
+const RED = '#F07171';
+const LIGHT_RED = '#F51818';
+const GREEN = '#C2D94C';
+const LIGHT_GREEN = '#86B300';
+const YELLOW = '#FFB454';
+const LIGHT_YELLOW = '#F29718';
+const BLUE = '#59C2FF';
+const LIGHT_BLUE = '#399EE6';
+const MAGENTA = '#D4BFFF';
+const LIGHT_MAGENTA = '#A37ACC';
+const CYAN = '#95E6CB';
+const LIGHT_CYAN = '#4CBF99';
 const WHITE = '#FFFFFF';
+const LIGHT_GRAY = '#D9DBDD';
+const DARK_GRAY = '#9DA2A6';
 
-const CURSOR_COLOR = YELLOW;
-const BORDER_COLOR = BACKGROUND;
+const CURSOR_COLOR = '#FF8F40';
+const BORDER_COLOR = '#C8C8C8';
 
-let TAB_BORDER_COLOR = '#E2E4E7';
-const TAB_TEXT_COLOR = FOREGROUND;
-const TAB_BORDER_ACTIVE_COLOR = '#FF6A00';
+const TAB_BORDER_COLOR = '#C8C8C8';
+const TAB_TEXT_COLOR = '#61676C';
+const TAB_BORDER_ACTIVE_COLOR = '#FF8F40';
 
 const colors = {
   black: BACKGROUND,
